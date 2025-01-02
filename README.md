@@ -72,7 +72,6 @@ The solutions or any error messages (e.g., no solution) are displayed in a popup
 
 ![image](https://github.com/user-attachments/assets/684514dd-bc6e-4cea-99be-e23f0521d5cc)
 
-
 ---
 
 ## Code Explanation
@@ -100,6 +99,17 @@ The solutions or any error messages (e.g., no solution) are displayed in a popup
 - **Helper Functions**:
     - Determinant calculation.
     - Matrix manipulation for Cramer's Rule.
+
+---
+
+## Android App
+
+This repository also includes an Android app version of the Linear Equation Solver.
+
+### How to Use:
+
+1. Install the APK file provided in the `AndroidApp` folder: [LinearEquationSolver.apk](./AndroidApp/LinearEquationSolver.apk).
+2. Launch the app on your Android device and input the equations to get solutions.
 
 ---
 
