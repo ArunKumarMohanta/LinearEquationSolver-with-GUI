@@ -108,7 +108,7 @@ This repository also includes an Android app version of the Linear Equation Solv
 
 ### How to Use:
 
-1. Install the APK file provided in the `AndroidApp` folder: [LinearEquationSolver.apk](./AndroidApp/LinearEquationSolver.apk).
+1. Install the APK file provided in the `AndroidApp` folder: [LinearEquationSolver.apk](./solverbyarun-0.2-arm64-v8a-debug (1).apk).
 2. Launch the app on your Android device and input the equations to get solutions.
 
 ---
