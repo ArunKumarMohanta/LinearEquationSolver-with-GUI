@@ -4,6 +4,26 @@ This Python application solves systems of linear equations using **Cramer's Rule
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Installation Instructions](#installation-instructions)
+  - [Prerequisites](#prerequisites)
+  - [Steps to Run](#steps-to-run)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Code Explanation](#code-explanation)
+  - [Core Functions](#core-functions)
+  - [Kivy GUI](#kivy-gui)
+  - [Code Structure](#code-structure)
+- [Android App](#android-app)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
+---
+
 ## Features
 
 - **User-Friendly Interface**: Intuitive fields for entering coefficients and constants.
@@ -108,7 +128,7 @@ This repository also includes an Android app version of the Linear Equation Solv
 
 ### How to Use:
 
-1. Install the APK file provided in the `AndroidApp` folder: [LinearEquationSolver.apk](./LinearEquationSolver.apk).
+1. Install the APK file : [LinearEquationSolver.apk](./LinearEquationSolver.apk).
 2. Launch the app on your Android device and input the equations to get solutions.
 
 ---
